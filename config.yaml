@@ -6,6 +6,8 @@ keywords:
         kaggle: 3
         resnet: 3
         anomaly detection: 1
+        recommend: 3
+        graph: 1
         
 
 # 通知の閾値
